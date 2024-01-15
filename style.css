@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.allpage{
+    background-color: #2593ac;
+}
+.midsec1 {
+    background-color: #f1e9f0;
+}
+.bdlogo {
+    width: 15vh;
+    height: 15vh;
+}
+.motherbaby {
+    width: 70vh;
+    height: 70vh;
+    border-radius: 50%;
+}
+.midtextheader{
+    width: 52%;
+    margin: auto;
+    text-align: center;
+    border: 3px solid #2593ac;
+    border-radius: 3vh;
+    color: #797598;
+}
+.midtextpara{
+    text-align: center;
+    color: #bd73af;
+}
+.footerbg{
+    background-color: #797598;
+}
+.logofooter{
+    background-color: #ffffff;
+}
+.logofooter img{
+    width: 22vh;
+    height: 15vh;
+}
